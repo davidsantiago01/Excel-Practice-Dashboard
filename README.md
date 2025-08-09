@@ -30,11 +30,6 @@ In the initial data preparation phase, we did the following tasks:
 - Changed Gross Margin format from decimals to percentage
 - Obtained Costs data by following formula =-([@Revenue]*[@[Gross margin]]-[@Revenue])
 - Obtained Net Profit data by following formula =[@Revenue]-[@Cost]
-- Pivot table creation containing Revenue, Cost and Profit Total values and percentages.
-- Pivot table creation containing Revenue, Cost and Profit Total values through the years 2012, 2013 and 2014, by quarters
-- Dashboard Creation including data of two previous pivot tables and a line graph
-- Pivot table creation including top 10 best selling products
-- Dashboard designing: Colors, Choosing Design, Graphic Filter Connections, Slicers.
 
 
 ### Exploratory Data Analysis
@@ -45,6 +40,18 @@ In the initial data preparation phase, we did the following tasks:
   - Which are the top 5 countris where with most revenue and net profit?
 
   Including Slicers of: Year, Product type, Order Type, Retailer type, Country Sale.
+
+  ### Data Analysis
+
+- Pivot table creation containing Revenue, Cost and Profit Total values and percentages.
+- Pivot table creation containing Revenue, Cost and Profit Total values through the years 2012, 2013 and 2014, by quarters
+- Dashboard Creation including data of two previous pivot tables and a line graph
+- Pivot table creation including top 10 best selling products
+- Dashboard designing: Colors, Choosing Design, Graphic Filter Connections, Slicers.
+
+  
+
+  ### Results/Findings
 
   
 
