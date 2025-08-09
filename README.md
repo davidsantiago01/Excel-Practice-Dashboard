@@ -1,10 +1,11 @@
 # Dashboard Practice: WA Sales Report
-### Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning / Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
 ### Project Overview
 The scope of this practice was elaborate a dashboard based on different key petitions:
@@ -29,6 +30,11 @@ In the initial data preparation phase, we did the following tasks:
 - Changed Gross Margin format from decimals to percentage
 - Obtained Costs data by following formula =-([@Revenue]*[@[Gross margin]]-[@Revenue])
 - Obtained Net Profit data by following formula =[@Revenue]-[@Cost]
+- Pivot table creation containing Revenue, Cost and Profit Total values and percentages.
+- Pivot table creation containing Revenue, Cost and Profit Total values through the years 2012, 2013 and 2014, by quarters
+- Dashboard Creation including data of two previous pivot tables and a line graph
+- Pivot table creation including top 10 best selling products
+- Dashboard designing: Colors, Choosing Design, Graphic Filter Connections, Slicers.
 
 
 ### Exploratory Data Analysis
