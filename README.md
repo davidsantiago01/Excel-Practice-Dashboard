@@ -6,6 +6,8 @@
 - [Tools](#tools)
 - [Data Cleaning / Preparation](#data-cleaning--preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](data-analysis)
+- [Results/Findings](results-findings)
 
 ### Project Overview 
 The scope of this practice was elaborate a dashboard based on different key petitions:
@@ -45,17 +47,22 @@ In the initial data preparation phase, we did the following tasks:
 
 - Pivot table creation containing Revenue, Cost and Profit Total values and percentages.
 - Pivot table creation containing Revenue, Cost and Profit Total values through the years 2012, 2013 and 2014, by quarters
-- Dashboard Creation including data of two previous pivot tables and a line graph
+- Excel Dashboard Creation including data of two previous pivot tables and a line graph
 - Pivot table creation including top 10 best selling products
 - Dashboard designing: Colors, Choosing Design, Graphic Filter Connections, Slicers.
+- Power BI Dashboard Creation, formatting, designing
   
 <img width="1032" height="573" alt="Pivot" src="https://github.com/user-attachments/assets/9e56122f-9521-4d60-a6f0-e13dea94dbe1" />
 
 <img width="1424" height="518" alt="Dashboard" src="https://github.com/user-attachments/assets/a20a93ea-524d-43bf-9db8-d9fb77a5d7f6" />
 
+<img width="1235" height="708" alt="Dashboard Power BI" src="https://github.com/user-attachments/assets/53e09354-4d39-4000-8762-2cc9daec4af7" />
+
 
 ### Results/Findings
 
-
+ - United States accounts for ~18% of total sales revenue, the highest among all partners.
+ - A significant volume of orders still comes via fax and physical mail—outdated methods the company should phase out.
+ - Investigate the top 10 least-selling products. Three of them—Sun Blocker, Bug Shield Spray, and Compact Relief Kit—dropped from over $1M in revenue in 2012 to under $300K by 2014.
   
 
